@@ -18,4 +18,4 @@ for (let i = 0; i < listaDeCompras.length; i++) {
   total += listaDeCompras[i].valor;
 }
 
-console.log("Total: " + total);
+console.log("Total: R$ " + total);
